@@ -1,6 +1,12 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
-hello there
-# hello there
-## hello there
+  name: "cars"
+  output_dir: "docs"
+  navbar:
+    title: "Cars"
+    left:
+    - text: "Home"
+        href: index.html
+    - text: "Speed and Distance"
+        href: speed-and-distance.html
+  output:
+    html_document:
+      theme: cosmo
