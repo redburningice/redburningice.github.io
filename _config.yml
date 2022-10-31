@@ -4,7 +4,7 @@
     title: "Cars"
     left:
     - text: "Speed and Distance
-    - text: "Home
+      href: speed-and-distance.html
   output:
     html_document:
       theme: cosmo
