@@ -2,6 +2,9 @@
   output_dir: "docs"
   navbar:
     title: "Cars"
+    left:
+    - text: "Speed and Distance
+    - text: "Home
   output:
     html_document:
       theme: cosmo
